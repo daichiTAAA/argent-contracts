@@ -160,5 +160,6 @@ contract BaseWallet is IWallet {
     }
 
     receive() external payable {
+        
     }
 }
